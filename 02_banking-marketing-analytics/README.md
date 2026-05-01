@@ -3,6 +3,7 @@ Analysed 45,000+ customer records from a Portuguese bank to evaluate how custome
 
 ## Business Problem
 The study seeks to assess how sociodemographic factors, contact strategy, and call timing jointly shape subscription outcomes and financial returns. 
+
 Main question: How campaign impacts differ by sociodemographic group in term deposit marketing for a banking client?
 - RQ1: How do sociodemographic factors associate with term deposit subscription propensity?
 - RQ2: What is the comparative predictive power of demographic versus campaign execution variables?
@@ -40,7 +41,9 @@ We applied an Expected Monetary Value (EMV) analysis using both standard ($200 L
 
 ## Business Recommendations
 The bank should concentrate outbound phone calls on the highest EMV age/job segments particularly in the “Not-In-Labor-Force”, where longer calls are justified by both higher response and stronger balances. Large but low EMV groups, such as white collar, should be migrated to lower cost digital channels. Similarly, call frequency and duration for working age and blue collar segment should be capped. 
-The EMV calculations should be refreshed regularly to maintain aligned with current profitability rather than being just a single campaign snapshot. 
+
+Complete recommendations:
+<img width="481" height="612" alt="Screenshot 2026-05-01 at 18 45 03" src="https://github.com/user-attachments/assets/60ca52ed-070d-4b72-a2a8-bcad8806d78c" />
 
 
 ## Skills Demonstrated
