@@ -16,6 +16,7 @@ Using combined Kaggle datasets on global streaming trends and music & mental hea
 
 ### Tableau Dashboard: 
 <img width="630" height="361" alt="Screenshot 2026-05-01 at 17 00 50" src="https://github.com/user-attachments/assets/27a51d10-1b0f-4557-b156-1819759f3faa" />
+
 Visualisations used: 
 - Listening Times for Each Age Group (Bar Chart)
 - Effects According to Genre (Grouped Bars)
