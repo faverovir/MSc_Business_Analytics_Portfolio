@@ -2,3 +2,24 @@
 │   ├── README.md
 │   ├── visuals/
 │   └── sample_dashboard.png
+
+
+# Project Title
+
+## Business Problem
+What was being solved?
+
+## Dataset
+Size, source, type
+
+## Methods Used
+Logistic Regression, BERT, Tableau, etc.
+
+## Key Findings
+3 concise bullets
+
+## Business Recommendations
+Strategic impact
+
+## Skills Demonstrated
+SQL | NLP | Predictive Modelling
