@@ -4,7 +4,8 @@
 │   └── sample_dashboard.png
 
 
-# Project Title
+# Music & Mental Health: Data Visualisation & Cross-Dataset Analysis
+Analysed a 1,000+ user global dataset to assess how music listening behaviour impacts mental health outcomes across 20+ variables. Designed relational database architecture (ERD, LDM), integrated multi-source data using SQL, and built Tableau dashboards to uncover behavioural segmentation patterns, including 20-30% higher listening intensity among users with mental health challenges and genre-specific wellbeing effects.
 
 ## Business Problem
 What was being solved?
@@ -22,4 +23,4 @@ Logistic Regression, BERT, Tableau, etc.
 Strategic impact
 
 ## Skills Demonstrated
-SQL | NLP | Predictive Modelling
+SQL | Tableau | ERD-LDM
