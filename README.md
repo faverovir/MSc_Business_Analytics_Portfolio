@@ -25,7 +25,7 @@ Python | R | SQL | Tableau | NLP | Econometrics | ESG
 8. Star Wars NLP
 
 ## Contact
-[LinkedIn]([url](https://www.linkedin.com/in/virginia-favero/)) | [Email](faverov@tcd.ie)
+[LinkedIn](https://www.linkedin.com/in/virginia-favero/) | [Email](faverov@tcd.ie)
 
-### Note: 
+### Note 
 Datasets were pre-structured / simulated for academic purposes; repository focuses on analytical framework, methodology, and business insights.
