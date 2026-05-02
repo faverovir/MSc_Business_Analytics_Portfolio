@@ -1,4 +1,4 @@
-# Customer Purchase Behaviour Analytics: Electronic Sales 
+# Customer Purchase Behaviour Analysis: Electronic Sales 
 Applied advanced econometric modelling (propensity score matching, multinomial logistic regression, and two-stage least squares) to evaluate loyalty programme effectiveness, customer ratings, and product-level price elasticity using transactional retail data. Identified zero causal impact of loyalty membership on spending, quantified category-level pricing sensitivity, and generated strategic recommendations for incentive redesign, targeted pricing, and customer value optimisation.
 
 ## Business Problem
