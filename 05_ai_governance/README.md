@@ -8,6 +8,11 @@ Shell’s global HR and ESG operations face fragmented data, limited governance 
 ## Dataset
 Theoretical framework: the system would integrate enterprise-wide structured and semi-structured data from multiple internal sources, including Workday (HR and workforce records), SAP (payroll and time), Jira/Azure DevOps (project contributions), and ESG datasets (supplier emissions, lifecycle and sustainability metrics), unified through a Global Person ID (GPID). Data would be ingested via API pipelines, standardised through ETL processes, stored in a cloud-based AWS data lake, and transformed into reusable governance, behavioural, and ESG features for downstream AI models.
 
+<img width="464" height="537" alt="Screenshot 2026-05-02 at 12 41 43" src="https://github.com/user-attachments/assets/7a37dce2-8042-4a50-8e9f-0047b2393e0f" />
+
+<img width="604" height="364" alt="Screenshot 2026-05-02 at 12 42 07" src="https://github.com/user-attachments/assets/f4461b60-a26d-492c-9e36-16ad191994db" />
+
+
 
 ## Methods Used
 ### Bias Detection & Governance Intelligence: 
@@ -18,12 +23,13 @@ Behavioural economics principles (default effects, social norms, framing, feedba
 
 ### Scalable Multi-Agent AI Architecture:
 A layered architecture combining GPID identity resolution, AWS cloud infrastructure, ETL/API pipelines, feature stores, model-serving APIs, governance controls, dashboards, and human-in-the-loop oversight would create a scalable enterprise system aligned with GDPR and EU AI Act high-risk governance requirements.
+<img width="606" height="284" alt="Screenshot 2026-05-02 at 12 41 32" src="https://github.com/user-attachments/assets/f46e9fa8-d685-483d-84b5-6308c6df3cfe" />
 
 
 ## Key Findings
 - AI can move beyond compliance reporting into active governance optimisation by integrating oversight with behavioural intervention.
-- A phased Proof of Concept and Proof of Value frameworks projected measurable business impacts, including:
-- - 5–15% reduction in biased decisions,
+- Phased Proof of Concept (PoC) and Proof of Value (PoV) frameworks projected measurable business impacts, including:
+  - 5–15% reduction in biased decisions,
   - 20–40% faster audit and reporting processes,
   - 10–30% faster decision-making,
   - 15–25% HR productivity gains,
@@ -33,7 +39,8 @@ A layered architecture combining GPID identity resolution, AWS cloud infrastruct
 
 
 ## Business Recommendations
-Shell should begin with a controlled pilot in a high-impact business unit, focusing first on integrating core HR and ESG systems through GPID before scaling globally. The company should prioritise governance and bias detection as foundational capabilities, then gradually expand behavioural nudging once trust, transparency, and AI literacy are established. Strong governance structures—including human oversight, explainable AI, GDPR compliance, and EU AI Act alignment—must remain central throughout deployment. Ultimately, Shell’s greatest opportunity lies not just in automating governance, but in strategically embedding AI into everyday decision-making to improve fairness, sustainability, and operational efficiency at scale.
+Shell should begin with a focused pilot programme in one business unit to test the system’s effectiveness before expanding globally. Starting with core HR and ESG data integration will allow the company to build a strong governance foundation, improve transparency, and identify bias more effectively before introducing broader behavioural nudging features. As the system grows, Shell should place equal emphasis on employee trust, AI literacy, and clear communication so that AI-driven recommendations are seen as supportive rather than intrusive. Strong human oversight, regulatory compliance, and explainable AI should remain central throughout implementation to ensure the system aligns with organisational values. By taking a phased and people-centred approach, Shell can use AI not only to improve governance and sustainability performance, but also to create a more transparent, fair, and strategically agile organisation.
+
 
 ## Skills Demonstrated
 PoC + PoV | AI Budget Estimation 
