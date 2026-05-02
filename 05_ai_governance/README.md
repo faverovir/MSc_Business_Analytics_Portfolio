@@ -2,7 +2,7 @@
 Designed an AI-driven governance and behavioural product strategy integrating HR and ESG systems to reduce bias, improve sustainability, and shift Shell from passive reporting to real-time decision support. Developed a scalable multi-agent architecture (GPID, AWS data lake, APIs) combining bias detection, anomaly monitoring, behavioural nudges, experimentation frameworks, and governance controls aligned with GDPR and EU AI Act principles. 
 
 ## Business Problem
-Following the work from REPO ai_data_strategy Shell’s global HR and ESG operations face fragmented data, limited governance transparency, and weak behavioural incentives, making it difficult to detect bias, improve fairness, and influence employee decisions toward sustainability goals, mainly around complex Scope 3 emissions. This project was designed to transform Shell from passive governance reporting into a proactive AI-powered decision system that monitors governance risks while actively nudging employees toward fairer, lower-emission operational choices.
+Following the work from the Repo [07_ai_data_strategy](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/07_%20ai_data_strategy) Shell’s global HR and ESG operations face fragmented data, limited governance transparency, and weak behavioural incentives, making it difficult to detect bias, improve fairness, and influence employee decisions toward sustainability goals, mainly around complex Scope 3 emissions. This project was designed to transform Shell from passive governance reporting into a proactive AI-powered decision system that monitors governance risks while actively nudging employees toward fairer, lower-emission operational choices.
 
 
 ## Dataset
