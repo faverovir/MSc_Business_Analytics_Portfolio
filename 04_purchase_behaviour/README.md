@@ -29,8 +29,11 @@ To measure price elasticity while correcting for price endogeneity, a 2SLS frame
 - Add-ons contributed positively to revenue, but their impact was relatively small.
 
 <img width="634" height="454" alt="Screenshot 2026-05-02 at 12 12 14" src="https://github.com/user-attachments/assets/9fd6baed-53ec-4a2a-b7e2-ecec24c2732c" />
+
 <img width="634" height="447" alt="Screenshot 2026-05-02 at 12 12 31" src="https://github.com/user-attachments/assets/fe24959b-cd73-4c0c-986d-dfcabb8509cf" />
+
 <img width="634" height="483" alt="Screenshot 2026-05-02 at 12 12 52" src="https://github.com/user-attachments/assets/62768ddc-c8e9-40a4-a6e6-d575065c3b17" />
+
 
 
 ## Business Recommendations
