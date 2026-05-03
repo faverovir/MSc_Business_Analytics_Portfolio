@@ -12,11 +12,22 @@ The proposed strategy would integrate diverse structured, semi-structured, and u
 ### Enterprise Data Architecture Design:
 A proposed hybrid cloud strategy combining SAP as the single source of truth with AWS data lakes, SQL master repositories, domain-specific marts, and real-time/batch ETL pipelines was designed to standardise data flows, reduce fragmentation, and democratise secure cross-functional access. This included structured ingestion, metadata harmonisation, anomaly detection, and governance layers across upstream and downstream systems.
 
+Data Architecture - Upstream - Pre-Production:
+<img width="768" height="307" alt="Screenshot 2026-05-03 at 14 48 41" src="https://github.com/user-attachments/assets/d8c8ee3d-f7bd-4dcc-a2a2-c6922ad60614" />
+
+Data Architecture - Upstream - Active Production:
+<img width="768" height="251" alt="Screenshot 2026-05-03 at 14 49 41" src="https://github.com/user-attachments/assets/7c18d93f-61a0-49e5-b4f6-d3ec9c2897b7" />
+
+Data Architecture - Downstream:
+<img width="781" height="303" alt="Screenshot 2026-05-03 at 14 50 07" src="https://github.com/user-attachments/assets/861ef581-19ff-48d0-b81f-efa9c7ce6753" />
+
 ### Predictive Analytics & AI Decision Support:
 The framework would incorporate predictive analytics, machine learning, anomaly detection, segmentation models, and customer intelligence systems to optimise production, supply chains, emissions, premium fuel conversion, and workforce planning while maintaining human oversight in safety-critical or compliance-sensitive decisions.
 
 ### Human Data Governance & Identity Resolution:
 A Global Person ID (GPID) framework would be introduced to unify employee and contractor identity across HR, SAP, project management, and DEI systems, enabling more transparent hiring, performance, attrition, and governance analytics while reducing managerial bias and improving workforce strategy.
+<img width="802" height="409" alt="Screenshot 2026-05-03 at 14 51 45" src="https://github.com/user-attachments/assets/b27e44c0-c773-4c92-a66c-8edd2ef17e02" />
+
 
 
 ## Key Findings
@@ -25,6 +36,9 @@ A Global Person ID (GPID) framework would be introduced to unify employee and co
   - In upstream, structured pre-production and production architectures improve exploration speed, regulatory compliance, and downtime reduction.
   - In downstream, real-time supply chain and customer intelligence systems create stronger resilience, ESG performance, and commercial conversion opportunities—particularly through Shell’s Ferrari partnership.
   - In HR, GPID-based integration improves workforce transparency, talent mobility, DEI governance, and managerial fairness. Overall, the strategy shifts Shell from retrospective reporting toward real-time, AI-supported enterprise control.
+
+Conclusive Strategy: 
+<img width="802" height="423" alt="Screenshot 2026-05-03 at 14 52 29" src="https://github.com/user-attachments/assets/7722cb8d-dacb-4a2c-ad72-8c60e102ce9a" />
 
 
 ## Business Recommendations
