@@ -1,15 +1,11 @@
 # Customer Churn Analysis (Telecom Dataset)
 
 ## Business Problem
-Customer attrition is a critical challenge in subscription-based businesses, directly impacting recurring revenue and long-term profitability. In this case, the telecom company is experiencing a churn rate of approximately 26.5%, meaning that more than one in four customers leave within the observed period.
-
-The objective of this project is to determine whether churn follows identifiable patterns, to understand the key drivers behind customer departures, and to identify actionable strategies that can reduce attrition before it occurs.
+Customer attrition is a critical challenge in subscription-based businesses, directly impacting recurring revenue and long-term profitability. In this case, the telecom company is experiencing a churn rate of approximately 26.5%, meaning that more than one in four customers leave within the observed period. The objective of this project is to determine whether churn follows identifiable patterns, to understand the key drivers behind customer departures, and to identify actionable strategies that can reduce attrition before it occurs.
 
 
 ## Dataset
-The analysis is based on a telecom customer dataset containing 7,043 observations. The dataset includes a mix of demographic information, service usage details, billing data, and customer tenure.
-
-In addition to the original features, several derived variables were created to support analysis, including tenure groupings, estimated customer lifetime value (CLV), and revenue at risk. These enhancements enabled both descriptive and predictive insights into customer behaviour.
+The analysis is based on a telecom customer dataset containing 7,043 observations. The dataset includes a mix of demographic information, service usage details, billing data, and customer tenure. In addition to the original features, several derived variables were created to support analysis, including tenure groupings, estimated customer lifetime value (CLV), and revenue at risk. These enhancements enabled both descriptive and predictive insights into customer behaviour.
 
 
 ## Methods Used
