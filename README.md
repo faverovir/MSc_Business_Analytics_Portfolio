@@ -12,6 +12,7 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 🎾 Outside of analytics, I love travelling and spending time outdoors, trying cuisines from different cultures, discovering new sports, and spending time with animals, especially dogs.
 
 
+
 ## Technical Skills
 - **Excel:** Pivot Tables, Solver, VLOOKUP, SUMIFS
 - **Python:** Pandas, NumPy, re, str, NLTK, spaCy, scikit-learn, sentence-transformers, matplotlib
@@ -22,6 +23,7 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 - **Replit:** HTML Interactive Dashboards
 - **Easy Project (Easy Redmine):** Agile Workflows, Scrum / Kanban Boards, Gantt Planning, Task Management, KPI Tracking, Resource Allocation
 
+
 ## Soft Skills 
 - Adaptability
 - Analytical Problem Solving
@@ -31,6 +33,7 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 - Stakeholder Communication
 - Research & Insight Generation
 - Strategic Thinking 
+
 
 
 ## Project Directory
@@ -48,7 +51,7 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 
 
 ## Contact
-[LinkedIn Profile](https://www.linkedin.com/in/virginia-favero/) | [Email](faverov@tcd.ie)
+Feel free to reach out to me through my [LinkedIn Profile](https://www.linkedin.com/in/virginia-favero/) or by [Email](faverov@tcd.ie), I’m always happy to connect, discuss analytics projects, or explore new opportunities and collaborations.
 
 
 
