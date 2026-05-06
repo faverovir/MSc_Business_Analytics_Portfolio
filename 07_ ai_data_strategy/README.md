@@ -1,4 +1,4 @@
-# Big Data & AI Transformation - AI Governance & Behavioural Nudging System – Case: SHELL
+# Big Data & AI Transformation - AI Governance & Behavioural Nudging System – Case: Shell
 
 ## Business Problem
 This project addressed Shell’s challenge of managing fragmented, siloed, and operationally complex data across its global upstream, downstream, and human capital systems. With SAP acting as a central but often inaccessible system, Shell faced inefficiencies in cross-functional collaboration, delayed decision-making, inconsistent governance, and underutilised data potential. The objective was to design an enterprise-wide big data and AI strategy that transforms Shell’s data from disconnected operational assets into a unified, scalable, and governance-driven system that improves efficiency, supply chain resilience, workforce transparency, and sustainability performance.
