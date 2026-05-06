@@ -1,5 +1,4 @@
-# NLP & Sentiment Mining: Star Wars Rotten Tomatoes Review Analysis
-Built an end-to-end NLP analytics pipeline using Rotten Tomatoes review data across 12 films, applying BERT-based sentiment models, VADER, KeyBERT, and DeBERTa for sentiment classification, theme extraction, and aspect-level analysis. Conducted comparative sentiment, lexical diversity, and time-series analysis to identify sequel-era declines, critic-audience misalignment, and narrative quality as the primary driver of audience dissatisfaction.
+# Social Media Analytics - Text & Sentiment Analysis – Case: Star Wars Reviews 
 
 ## Business Problem
 This project analysed Rotten Tomatoes review data across the Star Wars franchise to understand what drives audience and critic sentiment over time, identify the core reasons behind sequel-era dissatisfaction, and evaluate how narrative, nostalgia, and franchise execution influence brand perception. The broader objective was to demonstrate how NLP and sentiment mining can help entertainment businesses monitor audience response, detect brand decline early, and better align creative or marketing strategy with consumer expectations.
@@ -32,4 +31,4 @@ For franchise-based media companies, this project highlights the importance of p
 
 
 ## Skills Demonstrated
-Python 
+Python (Hugging Face, NLP), BERT, VADER | Sentiment Analysis | Text Mining | Customer Insights
