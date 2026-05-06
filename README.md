@@ -24,6 +24,7 @@ Main skills:
 - **SQL:** joins, aggregations, relational databases, exploratory data analysis
 - **Stata:** Econometric and Statistical Modelling, Regression Analysis, Causal Inference, Panel Data Analysis, Hypothesis Testing
 - **Tableau:** Interactive Dashboards, Filters, Heatmaps, KPI Visualisation
+
 Additional skills:
 - **Replit:** HTML Interactive Dashboards
 - **Easy Project (Easy Redmine):** Agile Workflows, Scrum / Kanban Boards, Gantt Planning, Task Management, KPI Tracking, Resource Allocation
