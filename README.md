@@ -13,10 +13,24 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 
 
 ## Technical Skills
-Python (Pandas, re, str, NLTK, spaCy, scikit-learn, sentence-transformers) | R (dplyr, tidyr, stringr, tm, NLP, Topicmodels, Text2Vec) | Stata | SQL | Tableau 
+- Excel (Pivot Tables, Solver, VLOOKUP, SUMIFS)
+- Python (Pandas, NumPy, re, str, NLTK, spaCy, scikit-learn, sentence-transformers, matplotlib)
+- R (dplyr, tidyr, ggplot2, stringr, tm, NLP, Topicmodels, Text2Vec)
+- SQL (joins, aggregations, relational databases, exploratory data analysis)
+- Stata (Econometric and Statistical Modelling, Regression Analysis, Causal Inference, Panel Data Analysis, Hypothesis Testing)
+- Tableau (Interactive Dashboards, Filters, Heatmaps, KPI Visualisation)
+- Replit (HTML Interactive Dashboards)
+- 
 
 ## Soft Skills 
-Adaptability | Analytical Problem Solving | Cross-Functional Collaboration | Curiosity & Continuous Learning | Data Storytelling | Stakeholder Communication |  Research & Insight Generation | Strategic Thinking 
+- Adaptability
+- Analytical Problem Solving
+- Cross-Functional Collaboration
+- Curiosity & Continuous Learning
+- Data Storytelling
+- Stakeholder Communication
+- Research & Insight Generation
+- Strategic Thinking 
 
 
 ## Project Directory
@@ -34,7 +48,9 @@ Adaptability | Analytical Problem Solving | Cross-Functional Collaboration | Cur
 
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/virginia-favero/) | [Email](faverov@tcd.ie)
+[LinkedIn Profile](https://www.linkedin.com/in/virginia-favero/) | [Email](faverov@tcd.ie)
+
+
 
 
 ### _Note_ 
