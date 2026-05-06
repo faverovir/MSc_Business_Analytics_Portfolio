@@ -12,7 +12,7 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 🎾 Outside of analytics, I love travelling and spending time outdoors, trying cuisines from different cultures, discovering new sports, and spending time with animals, especially dogs.
 
 
-Feel free to reach out to me through my [LinkedIn Profile](https://www.linkedin.com/in/virginia-favero/) or by [Email](faverov@tcd.ie), I’m always happy to connect, discuss analytics projects, or explore new opportunities and collaborations.
+Feel free to reach out to me through my [LinkedIn Profile](https://www.linkedin.com/in/virginia-favero/) or by [Email](faverov@tcd.ie), I’m always happy to connect, discuss analytics projects, or explore new job opportunities and collaborations.
 
 
 
