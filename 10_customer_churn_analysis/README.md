@@ -1,4 +1,4 @@
-# Customer Churn Analysis (Telecom Dataset)
+# Customer Churn Prediction & Causal Analysis – Case: Telecom Dataset
 
 ## Business Problem
 Customer attrition is a critical challenge in subscription-based businesses, directly impacting recurring revenue and long-term profitability. In this case, the telecom company is experiencing a churn rate of approximately 26.5%, meaning that more than one in four customers leave within the observed period. The objective of this project is to determine whether churn follows identifiable patterns, to understand the key drivers behind customer departures, and to identify actionable strategies that can reduce attrition before it occurs.
@@ -65,4 +65,4 @@ Finally, integrating predictive modelling into operational workflows would allow
 
 
 ## Skills Demonstrated
-Python | Tableau
+Tableau | Python (scikit-learn) | Causal Inference | Machine Learning | Customer Analytics
