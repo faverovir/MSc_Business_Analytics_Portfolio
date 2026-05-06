@@ -1,5 +1,4 @@
-# Big Data & AI Transformation: Shell Enterprise Data Strategy
-Contributed to a large-scale enterprise data strategy project for Shell, designing integrated governance frameworks to unify fragmented operational, workforce, and ESG data systems. Proposed scalable AI-enabled architecture to support decision intelligence, sustainability, and cross-functional optimisation.
+# Big Data & AI Transformation - AI Governance & Behavioural Nudging System – Case: SHELL
 
 ## Business Problem
 This project addressed Shell’s challenge of managing fragmented, siloed, and operationally complex data across its global upstream, downstream, and human capital systems. With SAP acting as a central but often inaccessible system, Shell faced inefficiencies in cross-functional collaboration, delayed decision-making, inconsistent governance, and underutilised data potential. The objective was to design an enterprise-wide big data and AI strategy that transforms Shell’s data from disconnected operational assets into a unified, scalable, and governance-driven system that improves efficiency, supply chain resilience, workforce transparency, and sustainability performance.
@@ -46,4 +45,4 @@ Shell should prioritise building a central Master Data Repository supported by A
 
 
 ## Skills Demonstrated
-Enterprise Data Strategy | Big Data Architecture Design | ETL pipeline planning | AI governance 
+Enterprise Data Strategy | Big Data Architecture Design | ETL Pipeline Planning | Data Governance | AI Systems Design 
