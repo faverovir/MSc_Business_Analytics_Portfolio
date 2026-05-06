@@ -20,7 +20,7 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 - **Stata:** Econometric and Statistical Modelling, Regression Analysis, Causal Inference, Panel Data Analysis, Hypothesis Testing
 - **Tableau:** Interactive Dashboards, Filters, Heatmaps, KPI Visualisation
 - **Replit:** HTML Interactive Dashboards
-- **Easy Project (Easy Redmine):** Agile Workflows, Scrum/Kanban Boards, Gantt Planning, Task Management, KPI Tracking, Resource Allocation
+- **Easy Project (Easy Redmine):** Agile Workflows, Scrum / Kanban Boards, Gantt Planning, Task Management, KPI Tracking, Resource Allocation
 
 ## Soft Skills 
 - Adaptability
