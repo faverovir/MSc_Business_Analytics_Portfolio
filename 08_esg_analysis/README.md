@@ -1,4 +1,4 @@
-# ESG Misrepresentation Index: Tobacco Sector Analytics
+# ESG Ratings vs Societal Impact – Case: BAT 
 Led a strategic ESG analysis of British American Tobacco (BAT) to evaluate misalignment between reported ESG ratings and real societal impact, identifying systemic “harm substitution” across geographies and product lines. Developed an ESG Misrepresentation Index (EMI) using AHP weighting, controversy analysis, and sustainability gap modelling to expose reporting blind spots such as Scope 3 health externalities and deliver policy recommendations for investors, regulators, and ESG framework reform.
 
 ## Business Problem
@@ -37,5 +37,4 @@ This project suggests that ESG ratings alone should not be taken at face value, 
 
 
 ## Skills Demonstrated
-Python | HTML Dashboards
-
+Excel | Python | HTML Dashboards | Industry Research | ESG Frameworks | Sustainability Analysis | Policy Analysis
