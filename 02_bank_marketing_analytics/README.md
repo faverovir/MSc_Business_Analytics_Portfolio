@@ -1,5 +1,4 @@
-# Data-Driven Marketing Decisions: Banking Campaign Analytics
-Analysed 45,000+ customer records from a Portuguese bank to evaluate how customer targeting, campaign design, and timing influence term-deposit conversion and profitability. Applied segmentation, logistic regression (improving AUC from 0.64 to 0.90+), and EMV frameworks to identify high-ROI customer segments, optimise budget allocation, and redesign acquisition strategies around financially efficient targeting.
+# Data-Driven Marketing Decisions - Bank Term-Deposit Marketing Campaign Dataset
 
 ## Business Problem
 The study seeks to assess how sociodemographic factors, contact strategy, and call timing jointly shape subscription outcomes and financial returns. 
@@ -47,5 +46,5 @@ Complete recommendations:
 
 
 ## Skills Demonstrated
-R | Excel-SPSS 
+R (Logistic Regression, Predictive Modelling) | Excel-SPSS | Customer Segmentation | Marketing Analysis | ROI Analysis
 
