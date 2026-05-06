@@ -12,6 +12,9 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 🎾 Outside of analytics, I love travelling and spending time outdoors, trying cuisines from different cultures, discovering new sports, and spending time with animals, especially dogs.
 
 
+Feel free to reach out to me through my [LinkedIn Profile](https://www.linkedin.com/in/virginia-favero/) or by [Email](faverov@tcd.ie), I’m always happy to connect, discuss analytics projects, or explore new opportunities and collaborations.
+
+
 
 ## Technical Skills
 - **Excel:** Pivot Tables, Solver, VLOOKUP, SUMIFS
@@ -47,12 +50,6 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 08. [ESG Analysis (Ratings vs. Societal Impact)](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/08_esg_analysis)
 09. [Sales and Customer Engagement](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/09_sales_customer_engagement)
 10. [Customer Churn Analysis (predictions and causality)](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/10_customer_churn_analysis)
-
-
-
-## Contact
-Feel free to reach out to me through my [LinkedIn Profile](https://www.linkedin.com/in/virginia-favero/) or by [Email](faverov@tcd.ie), I’m always happy to connect, discuss analytics projects, or explore new opportunities and collaborations.
-
 
 
 
