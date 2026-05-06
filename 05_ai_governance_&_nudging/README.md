@@ -42,4 +42,4 @@ Shell should begin with a focused pilot programme in one business unit to test t
 
 
 ## Skills Demonstrated
-PoC + PoV | AI Budget Estimation 
+Enterprise Data Strategy (PoC, PoV )| Big Data Architecture Design | ETL Pipeline Planning | Data Governance | AI Systems Design | AI Budget Estimation
