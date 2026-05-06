@@ -1,4 +1,4 @@
-# Sales & Customer Engagement Analysis - Case: Amazon
+# E-commerce Product Pricing & Customer Engagement Analysis – Case: Amazon Dataset 
 
 ## Business Problem
 This project analysed how pricing, discounting, product features, and brand positioning influence customer engagement in Amazon’s electronics marketplace, with the goal of identifying the key drivers of ratings, visibility, and promotional performance. The core objective was to help sellers optimise pricing and merchandising strategies to improve customer trust, conversion potential, and margin efficiency through more data-driven decision-making.
@@ -35,5 +35,5 @@ Amazon sellers should move away from broad, discount-heavy strategies and focus 
 
 
 ## Skills Demonstrated
-Excel | Tableau Dashboard |  
+Excel | Tableau | SQL | Excel | Product Analysis | Pricing Strategy
 
