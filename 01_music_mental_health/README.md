@@ -1,5 +1,4 @@
-# Music & Mental Health: Data Visualisation & Cross-Dataset Analysis
-Analysed a 1,000+ user global dataset to assess how music listening behaviour impacts mental health outcomes across 20+ variables. Designed relational database architecture (ERD, LDM), integrated multi-source data using SQL, and built Tableau dashboards to uncover behavioural segmentation patterns, including 20-30% higher listening intensity among users with mental health challenges and genre-specific wellbeing effects.
+# Data Visualisation & Cross-Dataset Analysis - Music & Mental Health Datasets
 
 ## Business Problem
 This project examines whether age, listening frequency, and music genre preferences are linked to mental health outcomes, helping determine how music streaming habits may support emotional wellbeing.
@@ -7,7 +6,7 @@ Our primary question explores: _How does the age, music listening frequency and 
 
 
 ## Dataset
-Using combined Kaggle datasets on global streaming trends and music & mental health surveys, the analysis connects listening behaviors, genre preferences, and mental health scores to better understand how music influences psychological wellbeing.
+Analysed 1,000+ user data using combined Kaggle datasets to assess how music listening behaviour impacts mental health outcomes across 20+ variables. Designed relational database architecture (ERD, LDM), integrated multi-source data using SQL, and built Tableau dashboards to uncover behavioural segmentation patterns. Wiht global streaming trends and music & mental health surveys, the analysis connects listening behaviors, genre preferences, and mental health scores to better understand how music influences psychological wellbeing.
 
 
 ## Methods Used
@@ -36,5 +35,4 @@ Age, listening habits, and music genre are key indicators for streaming platform
 
 
 ## Skills Demonstrated
-SQL | Tableau | ERD-LDM
-
+SQL (Data Modelling) | Tableau (Data Visualisation) | ERD-LDM | Customer Segmentation | Behavioural Analysis
