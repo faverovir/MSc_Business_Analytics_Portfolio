@@ -18,7 +18,7 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 
 ## Technical Skills
 Main skills:
-- **Excel:** Pivot Tables, Solver, VLOOKUP, SUMIFS
+- **Excel:** SPSS, Solver, SUMIFS, Pivot Tables, VLOOKUP
 - **Python:** Pandas, NumPy, re, str, NLTK, spaCy, scikit-learn, sentence-transformers, matplotlib
 - **R:** dplyr, tidyr, ggplot2, stringr, tm, NLP, Topicmodels, Text2Vec
 - **SQL:** joins, aggregations, relational databases, exploratory data analysis
