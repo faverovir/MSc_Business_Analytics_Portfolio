@@ -1,5 +1,4 @@
-# Customer Churn Prediction for Retail Banking
-Built end-to-end churn prediction models using customer demographics, financial behaviour, and engagement data to identify high-risk, high-value banking customers. Applied feature engineering, SMOTE balancing, logistic regression, random forest, and segmentation to generate actionable retention strategies aimed at reducing churn.
+# Customer Churn Prediction - Retail Banking Dataset
 
 ## Business Problem
 The bank faces significant revenue loss and rising customer acquisition costs due to a churn rate of approximately 20%. Analysis showed that churn is driven less by financial instability and more by disengagement among financially stable, high-balance customers. The project’s primary goal was to identify the strongest drivers of churn using customer demographics, financial indicators, and engagement behaviors, then reduce churn by 15% through targeted, data-driven retention strategies.
