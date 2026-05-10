@@ -1,4 +1,4 @@
-### Code Snippets 
+### Code Snippets (for a section of the project)
 
 set.seed(123)
 train_index <- createDataPartition(df$y_num, p = 0.75, list = FALSE)
