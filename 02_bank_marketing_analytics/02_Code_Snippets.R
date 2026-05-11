@@ -1,5 +1,9 @@
 ### Code Snippets (for a section of the project)
 
+pkgs <- c("tidyverse","caret","broom","pROC","factoextra","cluster","NbClust","reshape2","gridExtra")
+installed <- rownames(installed.packages())
+for(p in pkgs) if(!(p %in% installed)) install.packages(p, dependencies = TRUE)
+
 set.seed(123)
 train_index <- createDataPartition(df$y_num, p = 0.75, list = FALSE)
 train <- df[train_index, ]
