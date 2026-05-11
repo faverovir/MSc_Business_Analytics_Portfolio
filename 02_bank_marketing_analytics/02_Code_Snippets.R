@@ -1,4 +1,4 @@
-### Code Snippets (for a section of the project)
+### Testing Seasonality: does campaign success vary by month? Are some months more effective?
 
 pkgs <- c("tidyverse","caret","broom","pROC","factoextra","cluster","NbClust","reshape2","gridExtra")
 installed <- rownames(installed.packages())
