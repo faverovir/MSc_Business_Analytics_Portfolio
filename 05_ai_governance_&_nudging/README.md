@@ -22,6 +22,7 @@ Behavioural economics principles (default effects, social norms, framing, feedba
 
 ### Scalable Multi-Agent AI Architecture:
 A layered architecture combining GPID identity resolution, AWS cloud infrastructure, ETL/API pipelines, feature stores, model-serving APIs, governance controls, dashboards, and human-in-the-loop oversight would create a scalable enterprise system aligned with GDPR and EU AI Act high-risk governance requirements.
+
 <img width="606" height="284" alt="Screenshot 2026-05-02 at 12 41 32" src="https://github.com/user-attachments/assets/f46e9fa8-d685-483d-84b5-6308c6df3cfe" />
 
 
