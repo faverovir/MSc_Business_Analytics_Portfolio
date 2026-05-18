@@ -1,4 +1,5 @@
 # Customer Churn Prediction & Causal Analysis – Case: Telecom Dataset
+_**The content of this project is experimental and evolving, refinements and fixes are currently in progress.**_
 
 ## Business Problem
 Customer attrition is a critical challenge in subscription-based businesses, directly impacting recurring revenue and long-term profitability. In this case, the telecom company is experiencing a churn rate of approximately 26.5%, meaning that more than one in four customers leave within the observed period. The objective of this project is to determine whether churn follows identifiable patterns, to understand the key drivers behind customer departures, and to identify actionable strategies that can reduce attrition before it occurs.
