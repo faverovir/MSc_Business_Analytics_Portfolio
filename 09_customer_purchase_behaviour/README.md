@@ -1,4 +1,5 @@
 # Customer Purchase Behaviour Analysis – Electronic Retail Dataset
+_**The content iof this project s experimental and evolving, refinements and fixes are currently in progress.**_
 
 ## Business Problem
 This study explores what truly drives customer spending, satisfaction, and value in an electronics retail business by evaluating whether loyalty programmes, operational decisions, and pricing strategies meaningfully influence purchase behavior and revenue growth.
