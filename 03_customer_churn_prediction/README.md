@@ -32,6 +32,9 @@ Class imbalance correction was necessary due to lower churn prevalence. SMOTE wa
 ## Business Recommendations
 To reduce churn, the bank should focus less on broad customer acquisition and more on keeping its most valuable customers engaged. This means offering personalized support to high-balance, high-risk customers, encouraging stronger product engagement through the right mix of services, and improving retention at every stage of the customer journey, from onboarding to long-term loyalty. More tailored strategies for high-risk markets like Germany, older customers, and inactive users can help the bank build stronger relationships, improve customer satisfaction, and protect long-term revenue more effectively.
 
+_Team-developed project — contributor details available upon request._
+
+
 
 ## Skills Demonstrated
 Project Management | Git | Python | HTML Dashboards
