@@ -1,5 +1,5 @@
 # MSc Business Analytics Portfolio – Virginia Favero
-MSc Business Analytics portfolio showcasing projects in predictive modelling, consumer behaviour, product performance, ESG analytics, AI governance, Natual Language Processing (NLP), and data-driven and data-informed business strategy. 
+MSc Business Analytics portfolio showcasing projects in predictive modelling, consumer behaviour, product performance, ESG analytics, AI governance, Natural Language Processing (NLP), and data-driven and data-informed business strategy. 
 
 
 ## About Me
