@@ -42,6 +42,7 @@ We applied an Expected Monetary Value (EMV) analysis using both standard ($200 L
 The bank should concentrate outbound phone calls on the highest EMV age/job segments particularly in the “Not-In-Labor-Force”, where longer calls are justified by both higher response and stronger balances. Large but low EMV groups, such as white collar, should be migrated to lower cost digital channels. Similarly, call frequency and duration for working age and blue collar segment should be capped. 
 
 Complete recommendations:
+
 <img width="481" height="612" alt="Screenshot 2026-05-01 at 18 46 28" src="https://github.com/user-attachments/assets/edb40af7-b47e-493a-b53f-b31650911802" />
 
 _Team-developed project, contributor details available upon request._
