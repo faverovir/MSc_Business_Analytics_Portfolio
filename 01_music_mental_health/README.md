@@ -34,5 +34,9 @@ Visualisations used:
 Age, listening habits, and music genre are key indicators for streaming platforms targeting specific audiences. Music can positively affect mental health, but therapeutic outcomes depend heavily on genre selection. Younger listeners, especially those with mental health concerns, represent a high-value target group, as targeted genre promotion can improve wellbeing while converting casual users into more engaged subscribers.
 
 
+_Team-developed project — contributor details available upon request._
+
+
+
 ## Skills Demonstrated
 SQL (Data Modelling) | Tableau (Data Visualisation) | ERD-LDM | Customer Segmentation | Behavioural Analysis
