@@ -34,6 +34,9 @@ The study applied Holt-Winters forecasting, linear emissions trend modelling, ex
 ## Business Recommendations
 This project suggests that ESG ratings alone should not be taken at face value, especially in industries where the product itself creates significant societal harm. Investors, regulators, and ESG providers need to look beyond polished sustainability reporting and focus more on real-world outcomes such as dependency reduction, youth protection, and whether harm is actually being reduced rather than shifted elsewhere. For companies like BAT, building genuine credibility will require proving measurable societal improvement, not just stronger disclosures. More broadly, ESG frameworks should become more practical, transparent, and industry-specific so they better reflect how businesses truly impact people and society.
 
+_Team-developed project, contributor details available upon request._
+
+
 
 ## Skills Demonstrated
 Excel | Python | HTML Dashboards | Industry Research | ESG Frameworks | Sustainability Analysis | Policy Analysis
