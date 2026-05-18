@@ -12,11 +12,19 @@ The dataset consisted of Rotten Tomatoes critic and audience reviews, ratings, a
 ### Sentiment Classification & Model Benchmarking:
 The project compared traditional VADER sentiment analysis with BERT-based sentiment models (SiEBERT and RoBERTa/GoEmotions) to evaluate long-form movie review sentiment more accurately across films and eras. This allowed stronger contextual understanding of audience and critic opinion than lexicon-only approaches. 
 
+<img width="1006" height="565" alt="Screenshot 2026-05-18 at 17 20 21" src="https://github.com/user-attachments/assets/09c1fb00-dec8-4143-a359-b2e2c28d5186" />
+
+
 ### Temporal, Lexical & Emotion Trend Analysis:
 Time-series sentiment tracking, lexical diversity (Type-Token Ratio), and emotion mapping were used to evaluate how critic and audience sentiment evolved over time, revealing franchise-era decline, lexical decay, and emotional shifts such as declining admiration and increasing disappointment in later films.
 
+<img width="1006" height="565" alt="Screenshot 2026-05-18 at 17 21 24" src="https://github.com/user-attachments/assets/61a3cedc-cc2f-4d8a-b812-f002b25e9e90" />
+
+
 ### Theme Extraction & Aspect-Based NLP: 
 KeyBERT keyword extraction, contextual n-gram analysis, and DeBERTa-v3 aspect-based sentiment analysis (ABSA) were used to isolate the main drivers of sentiment—including pacing, story, canon, characters, and visual effects—showing which narrative dimensions most strongly influenced franchise perception.
+
+<img width="1006" height="565" alt="Screenshot 2026-05-18 at 17 20 54" src="https://github.com/user-attachments/assets/41229654-f48f-40cc-a91d-fcd7daf39bfb" />
 
 
 ## Key Findings
