@@ -37,6 +37,7 @@ A Global Person ID (GPID) framework would be introduced to unify employee and co
   - In HR, GPID-based integration improves workforce transparency, talent mobility, DEI governance, and managerial fairness. Overall, the strategy shifts Shell from retrospective reporting toward real-time, AI-supported enterprise control.
 
 Conclusive Strategy: 
+
 <img width="802" height="423" alt="Screenshot 2026-05-03 at 14 52 29" src="https://github.com/user-attachments/assets/7722cb8d-dacb-4a2c-ad72-8c60e102ce9a" />
 
 
