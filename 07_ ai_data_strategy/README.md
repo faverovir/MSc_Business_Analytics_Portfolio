@@ -43,6 +43,8 @@ Conclusive Strategy:
 ## Business Recommendations
 Shell should prioritise building a central Master Data Repository supported by AWS and SAP integration to reduce fragmentation and create a single, scalable data foundation across all business units. Rather than relying on isolated systems, the company should focus on making data more accessible, standardised, and actionable for both technical and non-technical teams. Upstream and downstream strategies should be supported by predictive analytics and real-time decision tools, while HR should implement GPID to improve workforce transparency and governance. Equally important, Shell should maintain strong governance, privacy, and ethics controls so that AI and analytics enhance decision-making without compromising compliance or trust. By combining operational efficiency with governance and sustainability, Shell can transform data into a long-term strategic advantage rather than a source of organisational friction.
 
+_Team-developed project, contributor details available upon request._
+
 
 ## Skills Demonstrated
 Big Data Architecture Design | Data Governance | AI Systems Design 
