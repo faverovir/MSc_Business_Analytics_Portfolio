@@ -27,7 +27,7 @@ The study applied Holt-Winters forecasting, linear emissions trend modelling, ex
 
 [BAT Transition Dashboard ](https://bat-dashboard-standalone--faverov.replit.app/)
 
-[BAT—AHP ESG Framework & Gap Analysis](https://live-dashboard--virgifavero.replit.app/)
+[BAT AHP ESG Framework & Gap Analysis](https://live-dashboard--virgifavero.replit.app/)
 
 
 
