@@ -44,7 +44,7 @@ The bank should concentrate outbound phone calls on the highest EMV age/job segm
 Complete recommendations:
 <img width="481" height="612" alt="Screenshot 2026-05-01 at 18 46 28" src="https://github.com/user-attachments/assets/edb40af7-b47e-493a-b53f-b31650911802" />
 
-_Team-developed project — contributor details available upon request._
+_Team-developed project, contributor details available upon request._
 
 
 
