@@ -29,6 +29,9 @@ KeyBERT keyword extraction, contextual n-gram analysis, and DeBERTa-v3 aspect-ba
 ## Business Recommendations
 For franchise-based media companies, this project highlights the importance of prioritising storytelling, canon consistency, and character development over relying too heavily on nostalgia, visual spectacle, or brand recognition alone. Studios should use NLP and sentiment mining not just to monitor review scores, but to track deeper audience concerns around narrative quality and franchise fatigue in real time. By identifying dissatisfaction earlier, companies can make more informed creative and strategic decisions that protect long-term brand loyalty. More broadly, this framework could be scaled beyond Star Wars into a wider entertainment analytics tool for evaluating audience sentiment across major film, TV, or gaming franchises. 
 
+_Team-developed project, contributor details available upon request._
+
+
 
 ## Skills Demonstrated
 Python (Hugging Face, NLP), BERT, VADER | Sentiment Analysis | Text Mining | Customer Insights
