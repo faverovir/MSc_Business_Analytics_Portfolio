@@ -38,6 +38,9 @@ To measure price elasticity while correcting for price endogeneity, a 2SLS frame
 ## Business Recommendations
 The retailer should reassess the current loyalty programme, as it does not appear to generate meaningful increases in customer spending, and consider redesigning it with stronger incentives or engagement mechanisms. Greater strategic emphasis should be placed on improving product quality, customer experience, and brand perception rather than overinvesting in operational factors such as faster shipping, which showed limited influence on customer satisfaction. Pricing strategies should also be more product-specific, leveraging premium pricing opportunities for less price-sensitive categories while maintaining competitive pricing for more price-sensitive products. Overall, a more targeted approach to pricing and customer engagement is likely to yield stronger commercial outcomes than broad investments in loyalty or logistics alone.
 
+_Team-developed project, contributor details available upon request._
+
+
 
 ## Skills Demonstrated
 R | Python | Econometrics (Causal Inference, Statistical Modelling) | Pricing Analysis | Customer Behaviour
