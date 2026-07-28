@@ -57,4 +57,4 @@ Additional skills:
 
 
 ### _Note_ 
-_Datasets were pre-structured / simulated for academic purposes; repository focuses on analytical framework, methodology, and business insights._
+_Datasets were pre-structured / simulated for academic purposes; repository focuses on analytical framework, methodology, and business insights. The data used in Projects 11 and 12 is instead publicly available._
