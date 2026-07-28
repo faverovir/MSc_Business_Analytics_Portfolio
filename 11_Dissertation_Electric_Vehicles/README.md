@@ -48,6 +48,8 @@ Government interventions—including subsidies, tax incentives, infrastructure i
 ## Business Recommendations
 Governments should prioritise long-term industrial strategies that combine targeted subsidies, domestic battery manufacturing, and investment in charging infrastructure rather than relying solely on consumer incentives. Diversifying critical mineral supply chains and strengthening international partnerships can reduce geopolitical risk while improving supply security. Policymakers should also support innovation in battery technologies, recycling, and circular economy initiatives to reduce dependence on scarce raw materials and enhance long-term competitiveness. Overall, sustained policy coordination between trade, infrastructure, and industrial development will be essential for accelerating the global transition to electric mobility. 
 
+<img width="804" height="518" alt="Screenshot 2026-07-28 at 19 27 44" src="https://github.com/user-attachments/assets/1c82ecb5-1432-4396-a97b-4582c35c202d" />
+
 
 ## Skills Demonstrated
 RStudio | Machine Learning | Time Series Forecasting | Econometrics | Regression Analysis | Policy Analysis | International Trade | Data Analysis | Statistical Modelling | Economic Research | Data Visualisation
