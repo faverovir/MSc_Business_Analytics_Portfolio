@@ -58,12 +58,12 @@ Findings were interpreted through an operational efficiency perspective, disting
 <img width="590" height="544" alt="D3 canva" src="https://github.com/user-attachments/assets/4c351b50-ed86-432d-9591-fb1954934795" />
 <img width="589" height="524" alt="D4 canva" src="https://github.com/user-attachments/assets/1bff5a31-13fc-48c8-9921-639f0f1ecc8c" />
 <img width="589" height="524" alt="D4 canva" src="https://github.com/user-attachments/assets/632d6912-6156-4ee9-9ae0-1bc5d5e0eca0" />
+<img width="744" height="521" alt="D8 canva" src="https://github.com/user-attachments/assets/e8c8c8ed-3d48-4847-9831-8294913ea7e5" />
 
 
 
 ## Business Recommendations
 Retailers should move beyond measuring absolute food waste volumes and adopt operational efficiency metrics that account for changes in business size. Integrating pricing, inventory, and waste data into predictive analytics systems would enable earlier intervention and more accurate waste forecasting. Investment in centralised data infrastructure, automated reporting, and SQL-based monitoring systems can improve inventory planning while reducing unnecessary waste. Finally, sustainability reporting should prioritise waste intensity measures rather than total waste tonnage to provide a clearer picture of operational performance and long-term environmental progress.
-<img width="744" height="521" alt="D8 canva" src="https://github.com/user-attachments/assets/e8c8c8ed-3d48-4847-9831-8294913ea7e5" />
 
 
 
