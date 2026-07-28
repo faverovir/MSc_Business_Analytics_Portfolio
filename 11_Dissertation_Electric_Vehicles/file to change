@@ -1,38 +1,53 @@
-# E-commerce Product Pricing & Customer Engagement Analysis – Case: Amazon Dataset 
+# Powering the Transition: Trade Shifts, Critical Minerals & Policy Dynamics in the Global EV Market
 
 ## Business Problem
-This project analysed how pricing, discounting, product features, and brand positioning influence customer engagement in Amazon’s electronics marketplace, with the goal of identifying the key drivers of ratings, visibility, and promotional performance. The core objective was to help sellers optimise pricing and merchandising strategies to improve customer trust, conversion potential, and margin efficiency through more data-driven decision-making.
+This dissertation analysed how government policy, critical mineral supply chains, charging infrastructure, and international trade dynamics influence the competitiveness of the global electric vehicle (EV) market. Focusing on the European Union, the United States, and China, the study aimed to understand how the transition from crude oil to critical minerals is reshaping global trade patterns and what strategic actions policymakers can take to strengthen long-term EV competitiveness.
 
 
 ## Dataset
-The analysis used a cleaned Kaggle dataset of 1,000+ Amazon products, primarily focused on electronics and cable products, covering variables ranging from prices and product specifications, to product ratings. 
+The research combined multiple international datasets from publicly available sources, including:
+- International Energy Agency (Global EV Outlook)
+- Harvard Atlas of Economic Complexity
+- Statista
+- World Bank and OECD reports
+- Government policy publications (EU, US & China)
+
+The analysis covered EV adoption, charging infrastructure, international trade flows for crude oil and critical minerals (lithium, cobalt, nickel, manganese and graphite), production costs, investment activity, and policy measures across the three major EV markets.
 
 
 ## Methods Used
-### Data Cleaning & Feature Engineering:
-The raw Amazon product dataset was cleaned, normalised, and transformed in Excel by standardising pricing formats, removing redundant columns, restructuring product categories into hierarchical classifications, and creating derived variables such as discount percentage and money saved. This ensured consistency and improved analytical relevance.
+### Data Collection & Preparation
+Data from multiple international sources was collected, cleaned, standardised, and integrated into a unified analytical framework. Trade flows, EV prices, infrastructure, and policy variables were aligned across regions to enable cross-country comparisons.
 
-### Exploratory Data Analysis & Tableau Dashboarding:
-Bivariate analysis and Tableau dashboard visualisations were used to examine relationships between discount levels, cable types, fast-charging features, brand reputation, ratings, and rating counts. This included category-level comparisons such as Rating x Type, Velocity x Discount x Type, and Rating x Brand x Category.
+### Statistical Analysis
+Spearman correlation analysis and multivariate regression models were used to evaluate relationships between EV prices, critical mineral trade, crude oil exports, and market performance across China, the EU, and the US.
 
-### Strategic Gap Analysis (As-Is vs To-Be):
-A business strategy framework compared current pricing, discounting, and categorisation practices against an optimised future state, identifying performance inefficiencies and building a phased roadmap for pricing, categorisation, A/B testing, and dynamic promotion improvements.
+### Machine Learning & Forecasting
+Forecasting models were developed in RStudio using:
+- ARIMA Time Series
+- Random Forest
+- Decision Trees
+- Boosted Regression Trees
+- Support Vector Regression
+- K-Nearest Neighbours
+
+Models were evaluated using forecasting accuracy metrics and residual diagnostics to project future trade flows of crude oil and critical minerals.
+
+### Comparative Policy Analysis
+Government interventions—including subsidies, tax incentives, infrastructure investment, industrial policy, and foreign direct investment—were analysed across China, the EU, and the United States to assess their impact on EV adoption and international competitiveness. 
 
 
 ## Key Findings
-- HDMI cables had the highest average ratings (4.28), followed by Lightning and Type-C, suggesting premium pricing opportunities in stronger-performing categories.
-- The large “Other” cable category skewed pricing and discount results due to inconsistent classification, showing high discount variability without corresponding rating improvements.
-- Higher discounts did not consistently improve customer ratings or engagement, indicating that excessive discounting may reduce margins without delivering stronger customer trust.
-- Brand reputation had a stronger influence on ratings than technical product features such as cable type or fast-charging, highlighting the importance of brand-led merchandising and visibility.
-
-Sales Dashboard:
-<img width="1298" height="1314" alt="Dashboard_amazon_sales_BAproj1" src="https://github.com/user-attachments/assets/d93b7f78-d44d-4adb-b29c-7952a9986eea" />
-
+- Government policies were the strongest driver of EV market growth, significantly influencing consumer adoption, production costs, and foreign investment.
+- China maintains a substantial competitive advantage through integrated critical mineral supply chains, battery production, industrial policy, and charging infrastructure.
+- Well-developed charging infrastructure strongly correlates with higher EV adoption, highlighting infrastructure investment as a critical enabler of market growth.
+- The transition from crude oil towards critical minerals is reshaping international trade flows and creating new geopolitical dependencies.
+- Regression analysis identified statistically significant relationships between EV prices and critical mineral exports, particularly in China, while forecasting models project continued structural shifts in commodity trade linked to EV adoption. 
 
 
 ## Business Recommendations
-Amazon sellers should move away from broad, discount-heavy strategies and focus instead on smarter pricing, clearer product segmentation, and stronger brand positioning. Reclassifying the oversized “Other” category should be a priority, as better product categorisation would improve pricing precision, promotional targeting, and customer clarity. High-performing cable types like HDMI and Lightning should be positioned more strategically as premium offerings, while highly rated brands should receive stronger visibility through sponsored placements and merchandising. Rather than assuming deeper discounts drive engagement, sellers should use testing and data to identify more profitable discount ranges that maintain customer trust without sacrificing margin. Overall, the biggest opportunity lies in shifting from generic promotional tactics toward more structured, brand- and category-led growth strategies.
+Governments should prioritise long-term industrial strategies that combine targeted subsidies, domestic battery manufacturing, and investment in charging infrastructure rather than relying solely on consumer incentives. Diversifying critical mineral supply chains and strengthening international partnerships can reduce geopolitical risk while improving supply security. Policymakers should also support innovation in battery technologies, recycling, and circular economy initiatives to reduce dependence on scarce raw materials and enhance long-term competitiveness. Overall, sustained policy coordination between trade, infrastructure, and industrial development will be essential for accelerating the global transition to electric mobility. 
 
 
 ## Skills Demonstrated
-Excel | Tableau | SQL | Excel | Product Analysis | Pricing Strategy
+RStudio | Machine Learning | Time Series Forecasting | Econometrics | Regression Analysis | Policy Analysis | International Trade | Data Analysis | Statistical Modelling | Economic Research | Data Visualisation
