@@ -1,0 +1,147 @@
+# Split data into train vs test set
+set.seed(123) # Ensuring reproducibility
+# Instead of random sampling, we split for time-based splitting (Mimics Real-World Scenarios → We usually forecast using historical data.)
+train_size <- round(0.7 * nrow(df))  # Calculate 70% split index
+train <- df[1:train_size, ]  # First 70% as training set
+test <- df[(train_size + 1):nrow(df), ]  # Last 30% as testing set
+nrow(train)  # Check size of train set
+nrow(test)   # Check size of test set
+
+# Build formula based on existing lagged features
+lagged_features <- colnames(df)[!colnames(df) %in% c("year", "avg_NX_Oil")]
+formula_lagged <- as.formula(paste("avg_NX_Oil ~", paste(lagged_features, collapse = "+")))
+
+
+### TRAINING MODELS : decision tree (rpart), random forest (rf), boosted regression tree (btree), knn, SVR, ARIMA, random walk ###
+# Cannot use a confusion matrix because your target variable (avg_NX_Oil) is numerical, not categorical.
+tree_rpart <- train(formula_lagged, data = train, method = "rpart")
+tree_rpart_tune <- train(formula_lagged, data = train, method = "rpart", 
+                         tuneGrid = expand.grid(cp = seq(0, 0.01, by = 0.0001)),  
+                         trControl = trainControl(method = "cv", number = 50),
+                         metric = "RMSE",
+                         control = rpart.control(maxdepth = 10, minsplit = 5))  # Allow deeper tree
+tree_rpart_tune
+test_predictions_rpart <- predict(tree_rpart_tune, test) # predictions
+
+tree_rf <- train(formula_lagged, data = train, method = "rf")
+tree_rf_tune <- train(formula_lagged, data = train, method = "rf",
+                      tuneGrid = expand.grid(mtry = seq(2, 8, by = 1)))
+tree_rf_tune
+test_predictions_rf <- predict(tree_rf_tune, test)
+
+btree_model <- train(formula_lagged, data = train, method = "bstTree",
+                     tuneGrid = expand.grid(maxdepth = 1:30, mstop = 50, nu = 0.01))
+btree_model
+test_predictions_btree <- predict(btree_model, test)
+
+knn_model = train(formula_lagged, data = train, method = "knn", 
+                  preProcess = c("center", "scale"),
+                  tuneGrid = expand.grid(k = seq(5, 30, by = 2)),
+                  trControl = trainControl(method = "cv", number = 5))
+knn_model
+test_predictions_knn <- predict(knn_model, test)
+
+svr_model <- train(formula_lagged, data = train, method = "svmRadial", 
+                   tuneGrid = expand.grid(sigma = c(0.001, 0.01, 0.1), C = c(2, 10, 50)),
+                   tuneLength = 10)
+svr_model
+test_predictions_svr <- predict(svr_model, test)
+
+
+# PREDICT on test set
+test_predictions_rpart <- predict(tree_rpart, test)
+test_predictions_rf <- predict(tree_rf, test)
+test_predictions_btree <- predict(btree_model, test)
+test_predictions_knn <- predict(knn_model, test)
+test_predictions_svr <- predict(svr_model, test)
+
+# FORECAST future years 2023-2025
+future_years <- 2023:2025
+future_predictions <- data.frame(year = future_years)
+last_row <- tail(df, 1)
+
+for (year in future_years) {
+  new_X <- last_row[, lagged_features, drop = FALSE]
+  
+  pred_rpart <- predict(tree_rpart, newdata = new_X)
+  pred_rf    <- predict(tree_rf, newdata = new_X)
+  pred_btree <- predict(btree_model, newdata = new_X)
+  pred_knn   <- predict(knn_model, newdata = new_X)
+  pred_svr   <- predict(svr_model, newdata = new_X)
+  
+  future_predictions$pred_rpart[future_predictions$year == year] <- pred_rpart
+  future_predictions$pred_rf[future_predictions$year == year]    <- pred_rf
+  future_predictions$pred_btree[future_predictions$year == year] <- pred_btree
+  future_predictions$pred_knn[future_predictions$year == year]   <- pred_knn
+  future_predictions$pred_svr[future_predictions$year == year]   <- pred_svr
+  
+  # Update avg_NX_Oil_lag1 for next prediction based on KNN
+  last_row$avg_NX_Oil_lag1 <- pred_knn
+}
+
+# Show future predictions
+print(future_predictions)
+
+
+
+## ARIMA Model ## 
+# Check for seasonality using ggseasonplot()
+ggseasonplot(CHN_data_ts[, "avg_NX_Oil"], main="Seasonal Plot of avg_NX_Oil")
+#  Data are not seasonal
+
+# Checking for Stationarity with Autocorrelation Function (ACF) and Partial ACF (PACF)
+acf(CHN_data_ts[, "avg_NX_Oil"], main="ACF Plot")
+# The ACF plot shows a slow decay (gradual decrease) over several lags.
+# This suggests that the series may not be stationary because a stationary series 
+# usually has short-lived autocorrelation, meaning the ACF values drop quickly.
+pacf(CHN_data_ts[, "avg_NX_Oil"], main="PACF Plot")
+# The PACF plot has a significant spike at lag 1, followed by values that fall within the confidence bands (blue dashed lines).
+# This could indicate an AR(1) process, which often suggests that differencing may be needed.
+
+# Double-checking for Stationarity with ADF
+adf_test <- ur.df(CHN_data_ts[, "avg_NX_Oil"], type="drift", selectlags="AIC")
+summary(adf_test)
+# p-value = 0.5118, (> 0.05) → Fail to reject H0, meaning data is non-stationary, differencing is needed.
+
+print(arima_model) 
+# ARIMA (0,1,0) in (p,d,q) aka the model has differenced once on its own
+
+# Fit a ARIMA Model (no SARIMA bc no seasonality)
+arima_model <- auto.arima(CHN_data_ts[, "avg_NX_Oil"], seasonal=FALSE)
+summary(arima_model)
+arima_manual <- Arima(train$avg_NX_Oil, order = c(1,1,1))  # Example with one AR and one MA, tuning manually
+summary(arima_manual)
+
+test_predictions_arima <- forecast(arima_manual, h = nrow(test))$mean
+arima_residuals <- test$avg_NX_Oil - test_predictions_arima
+
+forecast_arima <- forecast(arima_manual, h = 3) # Forecast 3 steps ahead (2023, 2024, 2025)
+forecast_arima
+
+# Fit a random walk model (ARIMA(0,1,0))
+random_walk_model <- auto.arima(train$avg_NX_Oil, d = 1, max.p = 0, max.q = 0)
+random_walk_model
+test_predictions_rw <- forecast(random_walk_model, h = nrow(test))$mean
+
+forecast_rw <- forecast(test_predictions_rw, h = 3) # Forecast 3 steps ahead (2023, 2024, 2025)
+forecast_rw
+
+
+
+## RESIDUALS for model performance ##
+plot_residuals <- function(residuals, title) {
+  ggplot(data.frame(Index = 1:length(residuals), Residuals = residuals),aes(x = Index, y = Residuals)) +
+    geom_point(color = 'blue') +
+    geom_hline(yintercept = 0, linetype = 'dashed', color = 'red') +
+    labs(title = title, x = 'Observation', y = 'Residual') +
+    theme_minimal()
+}
+
+plot_residuals(rpart_residuals, "Decision Tree Residuals")
+plot_residuals(rf_residuals, "Random Forest Residuals")
+plot_residuals(btree_residuals, "Boosted Tree Residuals")
+plot_residuals(knn_residuals, "KNN Residuals")
+plot_residuals(svr_residuals, "SVR Residuals")
+plot_residuals(arima_residuals, "ARIMA Residuals")
+plot_residuals(rw_residuals, "Random Walk Residuals")
+
