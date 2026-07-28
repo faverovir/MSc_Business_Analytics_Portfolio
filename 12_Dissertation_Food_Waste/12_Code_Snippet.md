@@ -1,4 +1,5 @@
 ## Snippet SQL Query for RQ1
 
-<img width="451" height="328" alt="Screenshot 2026-07-28 at 19 58 12" src="https://github.com/user-attachments/assets/1ca780b0-e3a2-4e83-a302-00eac4bba1e5" />
-<img width="451" height="589" alt="Screenshot 2026-07-28 at 19 54 26" src="https://github.com/user-attachments/assets/ea8c003c-8b60-4256-9cee-e3526f4d8f95" />
+<img width="451" height="328" alt="Screenshot 2026-07-28 at 19 58 12" src="https://github.com/user-attachments/assets/72ffc8ec-cb12-48a5-8a60-d5ada2c6d964" />
+<img width="451" height="292" alt="Screenshot 2026-07-28 at 19 59 20" src="https://github.com/user-attachments/assets/9d2da555-a453-48ae-b5f3-1ce45d24c5ac" />
+<img width="451" height="284" alt="Screenshot 2026-07-28 at 19 59 07" src="https://github.com/user-attachments/assets/9da6a4cb-118e-41c8-835f-12b448a48f5b" />
