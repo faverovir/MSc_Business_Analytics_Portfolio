@@ -68,4 +68,4 @@ Retailers should move beyond measuring absolute food waste volumes and adopt ope
 
 
 ## Skills Demonstrated
-Business Analytics | Data Cleaning | Statistical Analysis | Multiple Linear Regression | Correlation Analysis | Diagnostic Analytics | SQL Database Design | Data Integration | Excel | Retail Analytics | Data Visualisation | Tableau |
+Business Analytics | Data Cleaning | KPI Generation | Statistical Analysis | Diagnostic Analytics | SQL Database Design | Data Integration | Excel | Retail Analytics | Data Visualisation | Tableau |
