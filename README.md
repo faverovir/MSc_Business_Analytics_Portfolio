@@ -23,7 +23,7 @@ Main skills:
 - **R:** dplyr, tidyr, ggplot2, stringr, tm, NLP, Topicmodels, Text2Vec
 - **SQL:** joins, aggregations, relational databases, exploratory data analysis
 - **Stata:** Econometric and Statistical Modelling, Regression Analysis, Causal Inference, Panel Data Analysis, Hypothesis Testing
-- **Tableau:** Interactive Dashboards, Filters, Heatmaps, Calculated Fields, KPI Visualisation
+- **Tableau:** Interactive Dashboards, Filters, Heatmaps, Calculated Fields, KPI Visualisations
 
 Additional skills:
 - **Replit:** HTML Interactive Dashboards
