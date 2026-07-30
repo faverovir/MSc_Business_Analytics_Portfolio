@@ -53,7 +53,8 @@ Additional skills:
 08. [ESG Analysis (Ratings vs. Societal Impact)](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/08_esg_analysis)
 09. [Sales and Customer Engagement](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/09_sales_customer_engagement)
 10. [Customer Churn Analysis (predictions and causality)](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/10_customer_churn_analysis)
-
+11. [BA.BS Dissertation Electric Vehicles](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/11_Dissertation_Electric_Vehicles)
+12. [MSc Dissertation Food Waste](https://github.com/faverovir/MSc_Business_Analytics_Portfolio/tree/main/12_Dissertation_Food_Waste)
 
 
 ### _Note_ 
