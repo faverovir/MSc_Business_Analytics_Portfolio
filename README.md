@@ -19,11 +19,11 @@ MSc Business Analytics portfolio showcasing projects in predictive modelling, co
 ## Technical Skills
 Main skills:
 - **Excel:** SPSS, Solver, SUMIFS, Pivot Tables, VLOOKUP
-- **Python:** Pandas, NumPy, re, str, NLTK, spaCy, scikit-learn, sentence-transformers, matplotlib
+- **Python:** Pandas, NumPy, statsmodels, re, str, NLTK, spaCy, scikit-learn, sentence-transformers, matplotlib
 - **R:** dplyr, tidyr, ggplot2, stringr, tm, NLP, Topicmodels, Text2Vec
 - **SQL:** joins, aggregations, relational databases, exploratory data analysis
 - **Stata:** Econometric and Statistical Modelling, Regression Analysis, Causal Inference, Panel Data Analysis, Hypothesis Testing
-- **Tableau:** Interactive Dashboards, Filters, Heatmaps, KPI Visualisation
+- **Tableau:** Interactive Dashboards, Filters, Heatmaps, Calculated Fields, KPI Visualisation
 
 Additional skills:
 - **Replit:** HTML Interactive Dashboards
