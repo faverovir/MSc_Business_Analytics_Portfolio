@@ -6,7 +6,7 @@ Our primary question explores: _How does the age, music listening frequency and 
 
 
 ## Dataset
-Analysed 1,000+ user data using combined Kaggle datasets to assess how music listening behaviour impacts mental health outcomes across 20+ variables. Designed relational database architecture (ERD, LDM), integrated multi-source data using SQL, and built Tableau dashboards to uncover behavioural segmentation patterns. Wiht global streaming trends and music & mental health surveys, the analysis connects listening behaviors, genre preferences, and mental health scores to better understand how music influences psychological wellbeing.
+Analysed 1,000+ user data using combined Kaggle datasets to assess how music listening behaviour impacts mental health outcomes across 20+ variables. Designed relational database architecture (ERD, LDM), integrated multi-source data using SQL, and built Tableau dashboards to uncover behavioural segmentation patterns. With global streaming trends and music & mental health surveys, the analysis connects listening behaviors, genre preferences, and mental health scores to better understand how music influences psychological wellbeing.
 
 
 ## Methods Used
